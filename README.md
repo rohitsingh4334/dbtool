@@ -24,4 +24,4 @@ optional arguments:
   --query QUERY               meant for sqlite query. ex: 'select column from table '
   --data DATA                 data in the form of json string. ex: '{column: value}'
   --table-name TABLE_NAME     sqlite table name.
-```# dbtool
+```# src
